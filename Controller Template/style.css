@@ -62,7 +62,7 @@
 }
 .custom .bumper {
   position: absolute;
-  background-image: url(bumpers.svg);
+  background-image: url(https://imgur.com/ag6PsbC.svg);
   background-repeat: no-repeat;
   background-size: 29.608984vw 12.248846vw;
   background-position-y: -1vw;
@@ -95,7 +95,7 @@
 }
 .custom .face {
   position: absolute;
-  background-image: url(dpad.svg);
+  background-image: url(https://imgur.com/U7eZDHh.svg);
   background-repeat: no-repeat;
   background-size: 31.727148vw 17.604692vw;
 }
@@ -144,7 +144,7 @@
 }
 .custom .button {
   position: absolute;
-  background-image: url(abxy.svg);
+  background-image: url(https://imgur.com/dKRyQuJ.svg);
   background-repeat: no-repeat;
   background-size: 32.199429vw 16.599693vw;
   width: 6.7998vw;
@@ -184,7 +184,7 @@
 }
 .custom .back, .custom .start {
   position: absolute;
-  background-image: url(back_start.svg);
+  background-image: url(https://imgur.com/etEv0Fq.svg);
   background-repeat: no-repeat;
   background-size: 8.761668vw 12.380259vw;
   background-position-y: -1vw;
@@ -215,7 +215,7 @@
 }
 .custom .stick {
   position: absolute;
-  background-image: url(sticks.svg);
+  background-image: url(https://imgur.com/wrQDNCe.svg);
   background-repeat: no-repeat;
   background-size: 24.380646vw 24.380779vw;
   background-position-y: -1vw;
@@ -259,7 +259,7 @@
   height: 21.9137vw;
   left: 29.8152vw;
   top: 13.4086vw;
-  background-image: url(touchpad.svg);
+  background-image: url(https://imgur.com/U7eZDHh.svg);
   background-repeat: no-repeat;
   background-size: 42.207492vw 46.827496vw;
   background-position: -1vw -1vw;
@@ -275,7 +275,7 @@
   height: 21.1098vw;
   left: 28.9450vw;
   top: 15.6201vw;
-  background-image: url(lightbar.svg);
+  background-image: url(https://imgur.com/Jxbu1Jg.svg);
   background-repeat: no-repeat;
   background-size: cover;
 }
